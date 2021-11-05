@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on something innovative
 ## 📫 How to reach me:
-[![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new)
+[![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maksymkushnirov@gmail.com)
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
