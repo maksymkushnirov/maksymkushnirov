@@ -1,7 +1,16 @@
 ### Hi there 🖐️
 - 🔭 I’m currently working on something innovative
-## 📫 How to reach me:
+---
+### 📫 How to reach me:
 [![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maksymkushnirov@gmail.com)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&hide=javascript,html&show_icons=true&theme=gruvbox)
+
+---
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
