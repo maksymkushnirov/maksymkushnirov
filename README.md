@@ -2,6 +2,7 @@
 - 🔭 I’m currently working on something innovative
 ---
 ### 📫 How to reach me:
+<a href="https://t.me/maksymkushnirov" target="_blank"><img src="https://img.shields.io/badge/@maksymkushnirov-2CA5E0?style=flat&logo=telegram&logoColor=blue" alt="https://t.me/maksymkushnirov" /></a>
 [![Telegram Badge](https://img.shields.io/badge/@maksymkushnirov-2CA5E0?style=flat&logo=telegram&logoColor=blue)](https://t.me/maksymkushnirov)
 [![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maksymkushnirov@gmail.com)
 
