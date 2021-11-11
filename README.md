@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-  <!--
+<!--   
     <ul style="display: flex; justify-content: space-between">
       <li>
         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)
@@ -37,4 +37,4 @@ Here are some ideas to get you started:
         ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
       </li>
     </ul>
--->
+ -->
