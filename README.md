@@ -1,4 +1,5 @@
 ### Hi there 🖐️
+- ✅ embodying ideas for creating a better future
 - 🔭 I’m currently working on something innovative
 ---
 ### 📫 How to reach me:
