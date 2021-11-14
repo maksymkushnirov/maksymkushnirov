@@ -4,7 +4,7 @@
 ### 📫 How to reach me:
 <a href="https://t.me/maksymkushnirov" target="_blank"><img src="https://img.shields.io/badge/@maksymkushnirov-2CA5E0?style=flat&logo=telegram&logoColor=blue"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maksymkushnirov@gmail.com)
-
+[![Linkedin Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 
