@@ -1,5 +1,5 @@
+## embodying ideas for creating a better future
 ### Hi there 🖐️
-- ✅ embodying ideas for creating a better future
 - 🔭 I’m currently working on something innovative
 ---
 ### 📫 How to reach me:
@@ -39,3 +39,4 @@ Here are some ideas to get you started:
       </li>
     </ul>
  -->
+<!-- ✅ -->
