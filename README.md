@@ -38,5 +38,7 @@ Here are some ideas to get you started:
         ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
       </li>
     </ul>
+ 
+ ​[![​Linkedin Badge​](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
  -->
 <!-- ✅ -->
