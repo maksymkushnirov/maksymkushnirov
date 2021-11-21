@@ -7,13 +7,13 @@
 [![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maksymkushnirov@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
 [![Faceboke Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/maksymkushnirov/)](https://www.facebook.com/maksymkushnirov/)
+
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)
-
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 
-  <!--
+<!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -41,4 +41,4 @@ Here are some ideas to get you started:
  
  ​[![​Linkedin Badge​](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
  -->
-<!-- ✅ -->
+ <!-- ✅ -->
