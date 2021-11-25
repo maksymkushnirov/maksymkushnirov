@@ -18,7 +18,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons//vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
@@ -82,6 +81,7 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/>
 <img src="" alt="" width="50" height="50"/>
 <img src="" alt="" width="50" height="50"/>
 
