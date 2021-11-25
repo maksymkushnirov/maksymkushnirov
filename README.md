@@ -13,6 +13,14 @@
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 
+---
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/> 
+
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
