@@ -14,12 +14,14 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 
 ---
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="30" height="30"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="50" height="50"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons//vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
 
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -50,3 +52,37 @@ Here are some ideas to get you started:
  ​[![​Linkedin Badge​](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
  -->
  <!-- ✅ -->
+ 
+<!--
+<img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/devicon/devicon-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/codepen/codepen-plain.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/handlebars/handlebars-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/safari/safari-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodewebkit/nodewebkit-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitter/gitter-plain.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/tree/master/icons/markdown" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/behance/behance-original.svg" alt="" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" alt="Babel" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="50" height="50"/>
+<img src="" alt="" width="50" height="50"/>
+<img src="" alt="" width="50" height="50"/>
+
+-->
