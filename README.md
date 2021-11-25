@@ -13,8 +13,6 @@
 ---
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
----
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 
 ---
 ### my stack and tools
