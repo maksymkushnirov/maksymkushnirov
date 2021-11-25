@@ -1,8 +1,9 @@
-## embodying ideas for creating a better future
-### Hi there 🖐️
-- 🔭 I’m currently working on something innovative
+## <p align=center> embodying ideas for creating a better future</p>
+
+### hi there 🖐️
+- 🌿 I’m currently working on something innovative
 ---
-### 📫 let's stay in touch:
+### 💬 let's stay in touch
 <a href="https://t.me/maksymkushnirov" target="_blank"><img src="https://img.shields.io/badge/@maksymkushnirov-0072b1?style=flat&logo=telegram&logoColor=blue"/></a>
 [![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:maksymkushnirov@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
@@ -14,7 +15,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 
 ---
-my stack and tools
+### my stack and tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="35" height="35"/>
@@ -51,7 +52,8 @@ Here are some ideas to get you started:
  
  ​[![​Linkedin Badge​](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
  -->
- <!-- ✅ -->
+ <!-- ✅ 🟢 -->
+<!--  <p align="center"></p> -->
  
 <!--
 <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" alt="" width="35" height="35"/>
