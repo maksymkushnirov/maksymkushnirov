@@ -1,7 +1,9 @@
 ## <p align=center> embodying ideas for creating a better future</p>
 
 ### hi there 🖐️
-🌿 I’m currently working on something innovative
+🤝 I’m open to work **efficaciously**
+
+🌿 I’m currently developing something innovative
 
 ---
 ### 💬 let's stay in touch
