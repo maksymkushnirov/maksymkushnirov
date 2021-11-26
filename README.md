@@ -1,6 +1,6 @@
 ## <p align=center> embodying ideas for creating a better future</p>
 
-### hi there 🖐️, I’m
+### welcome 🖐️, I’m
 🤝 open to work **efficaciously**
 
 🌿 currently developing something innovative
