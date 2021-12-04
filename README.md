@@ -88,5 +88,6 @@ Here are some ideas to get you started:
 <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="Canva" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="35" height="35"/>
 <img src="" alt="" width="35" height="35"/>
+<img src="" alt="" width="35" height="35"/>
 
 -->
