@@ -31,9 +31,8 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="35" height="35"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn (package manager)" alt="Yarn (package manager)" width="35" height="35"/>
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" title="Markdown" alt="npm" width="35" height="35"/> -->
-<img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" title="Yarn (package manager)" alt="Yarn (package manager)" width="35" height="35"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" title="jQuery" alt="jQuery" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/lodash/lodash-original.svg" title="Lodash" alt="Lodash" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/swiper/swiper-original.svg" title="Swiper" alt="Swiper" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/backbonejs/backbonejs-original.svg" title="Backbone.js" alt="Backbone.js" width="35" height="35"/>
 
