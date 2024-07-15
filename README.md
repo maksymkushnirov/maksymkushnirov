@@ -21,8 +21,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="35" height="35"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS" width="35" height="35"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Next.js" alt="Next.js" width="35" height="35"/>
 
@@ -46,7 +45,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="35" height="35"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" title="V8 (JavaScript engine)" alt="V8 (JavaScript engine)" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Google Chrome" alt="Google Chrome" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" alt="Opera" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Mozilla Firefox" alt="Mozilla Firefox" width="35" height="35"/>
 
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
