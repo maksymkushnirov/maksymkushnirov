@@ -31,6 +31,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="35" height="35"/>
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="npm" width="35" height="35"/> -->
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="35" height="35"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons//vscode/vscode-original.svg" alt="Visual Studio Code" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Git" width="35" height="35"/>
 
