@@ -46,6 +46,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="35" height="35"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="35" height="35"/>
 
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
