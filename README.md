@@ -41,7 +41,9 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="35" height="35"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="Moodle" alt="Moodle" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/stackoverflow/stackoverflow-original.svg" title="Stack Overflow" alt="Stack Overflow" width="35" height="35"/>
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" title="Moodle" alt="Moodle" width="35" height="35"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="35" height="35"/>
 
@@ -52,7 +54,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" title="V8 (JavaScript engine)" alt="V8 (JavaScript engine)" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Google Chrome" alt="Google Chrome" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" alt="Opera" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Mozilla Firefox" alt="Mozilla Firefox" width="35" height="35"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 8" alt="Windows 8" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg" title="Windows 8" alt="Windows 8" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Windows 11" alt="Windows 11" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="PowerShell" alt="PowerShell" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="35" height="35"/>
 
 <!--
 **maksymkushnirov/maksymkushnirov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
