@@ -27,7 +27,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="Webpack" alt="Webpack" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/babel/babel-original.svg" title="Babel (transcompiler)" alt="Babel (transcompiler)" width="35" height="35"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="35" height="35"/>
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="35" height="35"/>
 <!-- <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" title="Markdown" alt="npm" width="35" height="35"/> -->
@@ -45,7 +45,7 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg" title="WordPress" alt="WordPress" width="35" height="35"/>
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="35" height="35"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="35" height="35"/>
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/google/google-original.svg" title="Google" alt="Google" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/v8/v8-original.svg" title="V8 (JavaScript engine)" alt="V8 (JavaScript engine)" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg" title="Google Chrome" alt="Google Chrome" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/opera/opera-original.svg" title="Opera" alt="Opera" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg" title="Mozilla Firefox" alt="Mozilla Firefox" width="35" height="35"/>
