@@ -36,6 +36,8 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studio" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons//vscode/vscode-original.svg" alt="Visual Studio Code" width="35" height="35"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="35" height="35"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Git" width="35" height="35"/>
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svgm" alt="Netlify" width="35" height="35"/>
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg" alt="Moodle" width="35" height="35"/>
 
 
