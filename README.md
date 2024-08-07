@@ -14,9 +14,7 @@
 [![Faceboke Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/maksymkushnirov/)](https://www.facebook.com/maksymkushnirov/)
 
 ---
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox" target="_blank"></a>
----
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)](https://maksymkushnirov.pro/contacts.html)
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox" target="_blank">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)](https://maksymkushnirov.pro/contacts.html)</a>
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)](https://maksymkushnirov.pro/contacts.html)
 
