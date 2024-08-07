@@ -16,7 +16,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)
 ---
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov) -->
-<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&theme=gruvbox&hide_rank=true&rank_icon=github&number_format=long&hide=stars,issues,contribs) -->
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&theme=gruvbox&hide_rank=true&rank_icon=github&number_format=long&hide=stars,issues,contribs)
 ---
 ### 🧱 my stack and tools
