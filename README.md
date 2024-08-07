@@ -13,11 +13,11 @@
 [![Faceboke Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/maksymkushnirov/)](https://www.facebook.com/maksymkushnirov/)
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)](https://maksymkushnirov.pro/contacts.html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)](https://maksymkushnirov.pro/contacts.html){:target="_blank" rel="noopener"}
 
 ---
 <!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov) -->
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&theme=gruvbox&hide_rank=true&rank_icon=github&number_format=long&hide=stars,issues,contribs)](https://maksymkushnirov.pro/contacts.html)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&theme=gruvbox&hide_rank=true&rank_icon=github&number_format=long&hide=stars,issues,contribs)](https://maksymkushnirov.pro/contacts.html){:target="_blank" rel="noopener"}
 ---
 ### 🧱 my stack and tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="35" height="35"/>
