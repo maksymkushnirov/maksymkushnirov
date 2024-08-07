@@ -7,7 +7,7 @@
 
 ---
 ### 💬 let's stay in touch
-[![Telegram Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Telegram&logoColor=white&link=https://t.me/maksymkushnirov/)](https://t.me/maksymkushnirov/)
+[![Telegram Badge](https://img.shields.io/badge/style=flat&logo=Telegram&logoColor=white&link=https://t.me/maksymkushnirov/)](https://t.me/maksymkushnirov/)
 [![Gmail Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=gmail&logoColor=white&link=mailto:maksymkushnirov@gmail.com/)](mailto:maksymkushnirov@gmail.com/)
 [![Linkedin Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
 [![Faceboke Badge](https://img.shields.io/badge/-maksymkushnirov-0072b1?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/maksymkushnirov/)](https://www.facebook.com/maksymkushnirov/)
