@@ -17,7 +17,7 @@
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov)
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=false&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=maksymkushnirov&show_icons=rank_icon&theme=gruvbox)
 ---
 ### 🧱 my stack and tools
 <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" title="XML" alt="XML" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg" title="JSON" alt="JSON" width="35" height="35"/> <img src="https://github.com/devicons/devicon/blob/master/icons/yaml/yaml-original.svg" title="YAML" alt="YAML" width="35" height="35"/>
