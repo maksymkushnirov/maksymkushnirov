@@ -8,9 +8,9 @@
 ---
 ### 💬 let's stay in touch
 [![Telegram Badge](https://img.shields.io/badge/Telegram-rgb(40,40,40)?style=for-the-badge&logo=Telegram&link=https://t.me/maksymkushnirov/)](https://t.me/maksymkushnirov/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-40,40,40?style=for-the-badge&logo=Gmail&link=mailto:maksymkushnirov@gmail.com/)](mailto:maksymkushnirov@gmail.com/)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-40,40,40?style=for-the-badge&logo=LinkedIn&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-40,40,40?style=for-the-badge&logo=Facebook&link=https://www.facebook.com/maksymkushnirov/)](https://www.facebook.com/maksymkushnirov/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-rgb(40,40,40)?style=for-the-badge&logo=Gmail&link=mailto:maksymkushnirov@gmail.com/)](mailto:maksymkushnirov@gmail.com/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-rgb(40,40,40)?style=for-the-badge&logo=LinkedIn&link=https://www.linkedin.com/in/maksymkushnirov/)](https://www.linkedin.com/in/maksymkushnirov/)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-rgb(40,40,40)?style=for-the-badge&logo=Facebook&link=https://www.facebook.com/maksymkushnirov/)](https://www.facebook.com/maksymkushnirov/)
 
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksymkushnirov&show_icons=true&theme=gruvbox)](https://maksymkushnirov.pro/contacts.html)
