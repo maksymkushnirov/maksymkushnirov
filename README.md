@@ -1,9 +1,7 @@
-## <p align=center>raising 30k ₴ (UAH) ≈ 730 $ (USD)</p>
-# <p align=center>https://send.monobank.ua/jar/ADHTRsveZk</p>
-## <p align=center>for [Ukrainian combat medics](https://www.hospitallers.life/)</p>
-
-
-
+## <p align=center>join ❤️ to raise 30k ₴ (UAH) ≈ 730 $ (USD) via</p>
+## <p align=center>https://send.monobank.ua/jar/ADHTRsveZk</p>
+## <p align=center>for 🇺🇦 [Ukrainian combat medics](https://www.hospitallers.life/) 🇺🇦</p>
+---
 ## <p align=center>embodying ideas for creating a better future</p>
 
 ### welcome 🖐️, I’m
